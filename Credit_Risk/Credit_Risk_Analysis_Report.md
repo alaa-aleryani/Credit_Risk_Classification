@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-For this analysis, we used some techniques to train and evaluate a model based on loan risk. These techniques were `LogisticRegression` because the prediction is categorical, and we used `Resampling Method` to handle  the imbalanced data, where we had more 0's (healthy loan applicants) than 1's (high risk loan applicants). The purpose was to have a trusted model that gives us a high recall for the healthy and risky loan applicants. Thus, we used a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
+For this analysis, we used some techniques to train and evaluate a model based on loan risk. We used `LogisticRegression` because the prediction is categorical and `Resampling Method` to handle the imbalanced data, where we had more 0's (healthy loan applicants) than 1's (high risk loan applicants). The purpose was to have a trusted model that gives us a high recall for the healthy and risky loan applicants. Thus, we used a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 
 
 ## Results 
