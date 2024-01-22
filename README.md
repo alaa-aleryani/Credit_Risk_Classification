@@ -15,8 +15,10 @@ The instructions for this Challenge are divided into the following subsections:
 
 > **_NOTE:_** A value of 0 in the “loan_status” column means that the loan is healthy. A value of 1 means that the loan has a high risk of defaulting.
 
+<!-- This is a good NOTE SYNTAX  -->
+<!-- 
 > [!NOTE]
->  A value of 0 in the “loan_status” column means that the loan is healthy. A value of 1 means that the loan has a high risk of defaulting.
+>  A value of 0 in the “loan_status” column means that the loan is healthy. A value of 1 means that the loan has a high risk of defaulting. -->  
 
 ### Create a Logistic Regression Model with the Original Data
 1. Fit a logistic regression model by using the training data (X_train and y_train).
