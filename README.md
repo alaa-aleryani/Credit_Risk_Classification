@@ -15,6 +15,8 @@ The instructions for this Challenge are divided into the following subsections:
 
 <span style="color:blue"><b>Note:</b> A value of 0 in the “loan_status” column means that the loan is healthy. A value of 1 means that the loan has a high risk of defaulting.</span>
 
+$${\color{green}<b>Note:</b> A value of 0 in the “loan_status” column means that the loan is healthy. A value of 1 means that the loan has a high risk of defaulting.}$$
+
 ### Create a Logistic Regression Model with the Original Data
 1. Fit a logistic regression model by using the training data (X_train and y_train).
 2. Save the predictions for the testing data labels by using the testing feature data (X_test) and the fitted model.
